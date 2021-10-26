@@ -1,9 +1,21 @@
 ### Hi there 👋
 
- 
-**xiyionxiong/xiyionxiong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Git★★★☆☆
+React★★★★☆
+Vue★★★☆☆
+Angualr★★★★☆
+Flutter★★★★☆
+Webpack★★★☆☆
+Javascript★★★☆☆
+HTML+CSS★★★☆☆
+Bootstrap★★★☆☆
+Java后端★★★★☆
+Android★★★★☆
 
-Here are some ideas to get you started:
+ 
+<!-- **xiyionxiong/xiyionxiong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
+
+<!-- Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -13,4 +25,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
- 
+  -->
