@@ -1,18 +1,3 @@
-### Hi there 👋
-
-- Git★★★☆☆
-- React★★★★☆
-- Vue★★★☆☆
-- Angualr★★★★☆
-- Flutter★★★★☆
-- Webpack★★★☆☆
-- Javascript★★★☆☆
-- HTML+CSS★★★★☆
-- Bootstrap★★★☆☆
-- Java后端★★★★☆
-- Android★★★★☆
-
- 
 <!-- **xiyionxiong/xiyionxiong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
 <!-- Here are some ideas to get you started:
@@ -127,20 +112,7 @@ Like My Work?
 	</ul>
 </details>
 
-
-
-- Git★★★☆☆
-- React★★★★☆
-- Vue★★★☆☆
-- Angualr★★★★☆
-- Flutter★★★★☆
-- Webpack★★★☆☆
-- Javascript★★★☆☆
-- HTML+CSS★★★★☆
-- Bootstrap★★★☆☆
-- Java后端★★★★☆
-- Android★★★★☆
-
+ 
 
 #
 
