@@ -57,7 +57,7 @@ Like My Work?
 - 🚀 &nbsp; I’m currently exploring ML, Gen AI, LLMs, etc.
 - 💬 &nbsp; Ask me anything [here](https://github.com/xiyionxiong/xiyionxiong/issues/2)! I am happy to help.
 - 👾 &nbsp; Fun fact: Equal is Not Always Equal in JS.
-- 📫 &nbsp; Reach me out: pavangandhi100@gmail.com.
+- 📫 &nbsp; Reach me out: xiongkai@petalmail.com.
 
 ### My Absolute Favorites:
 
@@ -108,6 +108,39 @@ Like My Work?
 	    <li><b>To Stay Updated:</b> Twitter, Product Hunt and Hacker News</li>
 	</ul>
 </details>
+
+<details>
+  <br />
+  <summary><b>⚙️ 技能点</b></summary>
+  	<ul>
+  	    <li><b>Git:</b> ★★★☆☆</li>
+	    <li><b>React: </b> ★★★★☆</li>
+  	    <li><b>Vue: </b> ★★★☆☆</li>
+	    <li><b>Angular: </b> ★★★★☆</li>
+	    <li><b>Flutter:</b> ★★★★☆</li>
+ 	    <li><b>Webpack:</b> ★★★☆☆</li>
+	    <li><b>Javascript:</b> ★★★★☆</li>
+	    <li><b>Android:</b> ★★★★☆</li>
+	    <li><b>Java后端:</b> ★★★★☆</li>
+	    <li><b>HTML+CSS:</b> ★★★★☆</li>
+	    <li><b>Rust:</b> ★★☆☆☆</li>
+	</ul>
+</details>
+
+
+
+- Git★★★☆☆
+- React★★★★☆
+- Vue★★★☆☆
+- Angualr★★★★☆
+- Flutter★★★★☆
+- Webpack★★★☆☆
+- Javascript★★★☆☆
+- HTML+CSS★★★★☆
+- Bootstrap★★★☆☆
+- Java后端★★★★☆
+- Android★★★★☆
+
 
 #
 
