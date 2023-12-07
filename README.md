@@ -26,9 +26,9 @@ I'm an explorer of new tech, an avid learner, and a problem-solver at heart. Whe
 
 Feel free to connect with me @xiyionxiong for all things tech or just to say hello! Let's shape the future of tech together. 🌟
 
-Joined Github **{{ ACCOUNT_AGE }}** years ago.
+Joined Github **8** years ago.
 
-Since then I pushed **{{ COMMITS }}**+ commits, opened **{{ ISSUES }}**+ issues, submitted **{{ PULL_REQUESTS }}**+ pull requests, created **{{ GISTS }}**+ gists and contributed to **{{ REPOSITORIES_CONTRIBUTED_TO }}**+ public repositories.
+Since then I pushed **112**+ commits, opened **28**+ issues, submitted **4**+ pull requests, created **3**+ gists and contributed to **29**+ public repositories.
 
 Like My Work?
 
@@ -94,6 +94,7 @@ Like My Work?
 	    <li><b>To Stay Updated:</b> Twitter, Product Hunt and Hacker News</li>
 	</ul>
 </details>
+
 <details>
   <br />
   <summary><b>⚙️ 技能点</b></summary>
@@ -111,11 +112,9 @@ Like My Work?
 	    <li><b>Rust:</b> ★★☆☆☆</li>
 	</ul>
 </details>
-🐂
- 
+
 
 #
-
 <div align="center">
 
 ### Show some ❤️ by starring some of the repositories!
