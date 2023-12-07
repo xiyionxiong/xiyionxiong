@@ -28,7 +28,7 @@ Feel free to connect with me @xiyionxiong for all things tech or just to say hel
 
 Joined Github **8** years ago.
 
-Since then I pushed **112**+ commits, opened **28**+ issues, submitted **4**+ pull requests, created **3**+ gists and contributed to **29**+ public repositories.
+Since then I pushed **114**+ commits, opened **28**+ issues, submitted **4**+ pull requests, created **3**+ gists and contributed to **29**+ public repositories.
 
 Like My Work?
 
