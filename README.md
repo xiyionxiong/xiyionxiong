@@ -34,7 +34,8 @@ Like My Work?
 
 <a href="https://www.buymeacoffee.com/xiyionxiong" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="60px" width="217px" ></a>
 
-<img align="right" height="250" width="375" alt="" src="https://raw.githubusercontent.com/xiyionxiong/xiyionxiong/master/gifs/coder.gif" />
+ 
+<img src="https://user-images.githubusercontent.com/89788120/167628634-549d2bdd-609e-4275-85af-1e1974da64ca.gif" width="50%" align="right" />
 
 ### Talking about Personal Stuff:
 
