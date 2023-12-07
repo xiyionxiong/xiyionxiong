@@ -18,7 +18,7 @@
  
 ### Glad to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=xiyionxiong.xiyionxiong&style=flat-square&color=0088cc)
 
-                    ![visitors](https://visitor-badge.glitch.me/badge?page_id=xiyionxiong.xiyionxiong&left_color=green&right_color=red)
+![visitors](https://visitor-badge.glitch.me/badge?page_id=xiyionxiong.xiyionxiong&left_color=green&right_color=red)
 
 I am a Full Stack Developer currently leading the Tech at MyWays.ai with a mission to revolutionize how the world hires with AI. 🚀
 
