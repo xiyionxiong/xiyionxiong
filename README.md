@@ -18,6 +18,8 @@
  
 ### Glad to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=xiyionxiong.xiyionxiong&style=flat-square&color=0088cc)
 
+                    ![visitors](https://visitor-badge.glitch.me/badge?page_id=xiyionxiong.xiyionxiong&left_color=green&right_color=red)
+
 I am a Full Stack Developer currently leading the Tech at MyWays.ai with a mission to revolutionize how the world hires with AI. 🚀
 
 I have a passion for problem-solving and pioneering first-principle thinking, driven by purpose and fueled by the challenge of finding solutions, with a strong foundation in Javascript, Nodejs, MongoDB, React, Nextjs, AWS, etc. I've led diverse tech teams covering Frontend, Backend, Machine Learning and DevOps and building scalable products from scratch with the commitment to making a positive impact through technology.
