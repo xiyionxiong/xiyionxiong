@@ -94,7 +94,6 @@ Like My Work?
 	    <li><b>To Stay Updated:</b> Twitter, Product Hunt and Hacker News</li>
 	</ul>
 </details>
-
 <details>
   <br />
   <summary><b>⚙️ 技能点</b></summary>
