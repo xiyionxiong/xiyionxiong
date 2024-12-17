@@ -5,7 +5,7 @@ hero:
   description: 介绍iAkii自研应用的介绍网站
   actions:
     - text: iPaper
-      link: /ipaper
+      link: /ipaper-tab
     - text: iClip
       link: /iclip
       # iClip是一款剪切板应用工具，方便您的日常工作和生活使用，iPaper提供了精美的壁纸，选择美丽的壁纸，让你的心情更加美丽。
