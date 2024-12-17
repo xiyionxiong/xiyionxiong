@@ -4,6 +4,7 @@
   "description": "自己开发应用的介绍网站",
   "license": "MIT",
   "scripts": {
+    "deploy": "dumi build && gh-pages -d dist -b docs",
     "build": "dumi build",
     "dev": "dumi dev",
     "prepare": "husky install && dumi setup",

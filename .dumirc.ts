@@ -5,7 +5,7 @@ export default defineConfig({
     name: 'iAkii开发',
     logo: "/logo.png",
     footer: false,
-    base: '/xiyionxiong',
+    base: '/xiyionxiong/',
     nav: [
       {title: 'iPaper', link: '/ipaper'},
       {title: 'iClip', link: '/iclip'},
