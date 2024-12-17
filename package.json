@@ -8,7 +8,9 @@
     "dev": "dumi dev",
     "prepare": "husky install && dumi setup",
     "preview": "dumi preview",
-    "start": "npm run dev"
+    "start": "npm run dev",
+    "gh": "gh-pages",
+    "gh-pages": "gh-pages -d dist -b docs"
   },
   "commitlint": {
     "extends": [
@@ -26,7 +28,8 @@
     "dumi": "^2.4.13",
     "husky": "^8.0.1",
     "lint-staged": "^13.0.3",
-    "prettier": "^2.7.1"
+    "prettier": "^2.7.1",
+    "gh-pages": "^6.2.0"
   },
   "authors": [
     "xiongkai@petalmail.com"
